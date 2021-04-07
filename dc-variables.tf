@@ -1,5 +1,5 @@
 locals {
-  feature_flags {
+  feature_flags = {
       provision_domaincontroller = false
   }
 }
